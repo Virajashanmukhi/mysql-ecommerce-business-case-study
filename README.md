@@ -26,7 +26,7 @@ This project uses the **Brazilian E-Commerce Public Dataset by Olist** available
 ## 🗂️ Data Model
 
 The dataset follows a **relational schema** including:
- -dataset link: ([link]https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+ -dataset link: (https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
 - Orders (core transactional table)
 - Order Items (product-level data)
