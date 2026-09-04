@@ -85,7 +85,6 @@ The analysis follows a structured diagnostic flow:
    - Reviews impact ❌
    - Delivery completion ❌
    - Repeat customers ❌
-5. Lag-based analysis (delay vs future demand)
 
 
 ## 🔥 Key Insights
