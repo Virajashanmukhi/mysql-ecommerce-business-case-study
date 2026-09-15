@@ -36,7 +36,7 @@ The dataset follows a **relational schema** including:
 - Reviews
 - Geolocation
 
-📌 ER Diagram is included in this repository.
+📌 ER Diagram is included in this repository.[ER Diagram.png]
 
 
 ## 🧹 Data Cleaning (Python)
